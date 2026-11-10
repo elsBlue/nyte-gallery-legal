@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Nyte Gallery Privacy Policy
 
-**Effective date:** 9 November 2026
+**Effective date:** 10 November 2026
 
 Nyte Gallery is a private photo vault for Android, made by **Nytefall Interactive** ("we", "us").
 This policy explains what happens to your information when you use the app.
@@ -35,6 +35,12 @@ unencrypted photo in `Pictures/Nyte Gallery`.
 
 Nyte Gallery has no sign-in and no user accounts. It shows no ads and does not include analytics, crash
 reporting, advertising or tracking tools. We do not sell your data.
+
+## Purchases
+
+Buying Nyte Gallery is handled by Google Play, which processes payment and purchase information under
+[Google's Privacy Policy](https://policies.google.com/privacy). Nytefall Interactive does not receive your
+card or payment details. The app itself still collects nothing and does not connect to the internet.
 
 ## Permissions
 
